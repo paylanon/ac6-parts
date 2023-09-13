@@ -2,6 +2,14 @@
 
 Images ripped from TraumaHunter's Parts Spreadsheet <3
 
+**Note:**
+
+A few parts seem to be bones-only, with no mesh assigned to them (?)
+
+A few parts seem to be variants of others, with slightly different detailing...
+
+...and some that appear to be damaged?
+
 | Part ID  | Part Name (Manufacturer) | Preview |
 | ------------- | ------------- | ------------- |
 | am_m_0000 | ? | ---- |
@@ -9,11 +17,11 @@ Images ripped from TraumaHunter's Parts Spreadsheet <3
 | am_m_1011 | AR-012 MELANDER C3 (BALAM) | ![image071](https://github.com/paylhorse/ac6-parts/assets/74363924/54ebe56f-8db4-46ba-a8de-fe27a39f2e0d) |
 | am_m_1080 | AS-5000 SALAD (RAD) | ![image087](https://github.com/paylhorse/ac6-parts/assets/74363924/93fc01d7-6ece-4a63-b482-effbead2911e) |
 | am_m_1400 | AC-2000 TOOL ARM (RAD) | ![image083](https://github.com/paylhorse/ac6-parts/assets/74363924/f5ed8a0f-f9ad-4f1f-8fd8-79f7851a8b68) |
-| am_m_1510 | AC-2000 TOOL ARM? (RAD) | ---- |
+| am_m_1510 | AC-2000 TOOL ARM Variant (RAD) | ---- |
 | am_m_2010 | DF-AR-08 TIAN-QIANG (DAFENG) | ![image073](https://github.com/paylhorse/ac6-parts/assets/74363924/22a71ae3-524a-4f55-a163-9789ad728a00) |
 | am_m_2210 | DF-AR-09 TIAN-LAO (DAFENG) | ![image074](https://github.com/paylhorse/ac6-parts/assets/74363924/ee264ade-fe0e-49ce-8a98-02ef8eb66680) |
 | am_m_3010 | NACHTREIHER/46E (SCHNEIDER) | ![image080](https://github.com/paylhorse/ac6-parts/assets/74363924/fcb59dcc-297c-43b6-80bb-e3c66227c01b) |
-| am_m_3310 | NACHTREIHER/46E? (SCHNEIDER) | ---- |
+| am_m_3310 | NACHTREIHER/46E Variant (SCHNEIDER) | ---- |
 | am_m_4010 | VP-46S (ARQUEBUS CORP) | ![image076](https://github.com/paylhorse/ac6-parts/assets/74363924/98bfd059-16ba-4b1c-89cd-f0a35755993a) |
 | am_m_4110 | ? | ---- |
 | am_m_4210 | VP-46D (ARQUEBUS CORP) | ![image078](https://github.com/paylhorse/ac6-parts/assets/74363924/4b58b370-d8e3-4969-a442-b73ed32096b5) |
@@ -26,35 +34,35 @@ Images ripped from TraumaHunter's Parts Spreadsheet <3
 | am_m_8031 | AA-J-123/RC JAILBREAK (BAWS) |![image068](https://github.com/paylhorse/ac6-parts/assets/74363924/09fad13e-0185-43a7-9c97-9f32c1b0a93b) |
 | am_m_8040 | AC-3000 WRECKER (RAD) | ![image085](https://github.com/paylhorse/ac6-parts/assets/74363924/108e954b-3415-4d30-948d-ade62b001e8e) |
 | am_m_8060 | EL-PA-00 ALBA (ELCANO FOUNDRY) | ![image091](https://github.com/paylhorse/ac6-parts/assets/74363924/3114b017-0822-47fb-898c-5e1e5c596ed9) |
-| am_m_8350 | AC-2000 TOOL ARM? (RAD) | ---- |
-| am_m_9400 | Damaged AC-2000 TOOL ARM? (RAD) | ---- |
-| bd_m_0000 | partName | image |
-| bd_m_1010 | partName | image |
-| bd_m_1011 | partName | image |
-| bd_m_1080 | partName | image |
-| bd_m_1400 | partName | image |
-| bd_m_1410 | partName | image |
-| bd_m_1510 | partName | image |
-| bd_m_2010 | partName | image |
-| bd_m_3010 | partName | image |
-| bd_m_3011 | partName | image |
-| bd_m_3310 | partName | image |
-| bd_m_4010 | partName | image |
-| bd_m_4110 | partName | image |
-| bd_m_4210 | partName | image |
-| bd_m_5010 | partName | image |
-| bd_m_6010 | partName | image |
-| bd_m_6110 | partName | image |
-| bd_m_7010 | partName | image |
-| bd_m_8010 | partName | image |
-| bd_m_8020 | partName | image |
-| bd_m_8030 | partName | image |
-| bd_m_8031 | partName | image |
-| bd_m_8040 | partName | image |
-| bd_m_8060 | partName | image |
-| bd_m_8350 | partName | image |
-| bd_m_9400 | partName | image |
-| bs_a_0000 | partName | image |
+| am_m_8350 | AC-2000 TOOL ARM Variant (RAD) | ---- |
+| am_m_9400 | AC-2000 TOOL ARM Damaged? (RAD) | ---- |
+| bd_m_0000 | ? | ---- |
+| bd_m_1010 | BD-011 MELANDER (BALAM) | ![image041](https://github.com/paylhorse/ac6-parts/assets/74363924/b2395e7d-e45e-422e-88bb-821c359a9f4c) |
+| bd_m_1011 | BD-012 MELANDER C3 (BALAM) | ![image043](https://github.com/paylhorse/ac6-parts/assets/74363924/8725d832-f73c-49a0-8968-a8889c68440a) |
+| bd_m_1080 | CS-5000 MAIN DISH (RAD) | ![image055](https://github.com/paylhorse/ac6-parts/assets/74363924/9ea8992d-1216-4662-bfbb-647f63ae64a9) |
+| bd_m_1400 | CC-2000 ORBITER (RAD) | ![image052](https://github.com/paylhorse/ac6-parts/assets/74363924/6f9e959b-eb39-4827-9b0c-cf6958e2cdbf) |
+| bd_m_1410 | ? | ---- |
+| bd_m_1510 | CC-2000 ORBITER Variant (RAD) | ---- |
+| bd_m_2010 | DF-BD-08 TIAN-QIANG (DAFENG) | ![image045](https://github.com/paylhorse/ac6-parts/assets/74363924/b2045da6-e376-49ec-907c-4b55346b12af) |
+| bd_m_3010 | NACHTREIHER/40E (SCHNEIDER) | ![image048](https://github.com/paylhorse/ac6-parts/assets/74363924/8193f57d-9e8a-49d5-8171-92333ca8b54a) |
+| bd_m_3011 | NACHTREIHER/40E Damaged? (SCHNEIDER) | ---- |
+| bd_m_3310 | NACHTREIHER/40E Variant (SCHNEIDER) | ---- |
+| bd_m_4010 | VP-40S (ARQUEBUS CORP) | ![image047](https://github.com/paylhorse/ac6-parts/assets/74363924/afac0e27-bf38-40f2-b370-c594bf864997) |
+| bd_m_4110 | ? | ---- |
+| bd_m_4210 | ? | ---- |
+| bd_m_5010 | VE-40A (ARQUEBUS CORP) | ![image050](https://github.com/paylhorse/ac6-parts/assets/74363924/88f1bc9f-2af3-47ab-b1b6-29b9114e92c9) |
+| bd_m_6010 | 07-061 MIND ALPHA (ALLMIND) |![image060](https://github.com/paylhorse/ac6-parts/assets/74363924/89bdd61c-a825-43b3-afd0-e70fd1b29477) |
+| bd_m_6110 | 07-061 MIND ALPHA Variant (ALLMIND) | ---- |
+| bd_m_7010 | EL-TC-10 FIRMEZA (ELCANO FOUNDRY) | ![image056](https://github.com/paylhorse/ac6-parts/assets/74363924/757ff34e-1af6-4892-acb4-63b0545f3418) |
+| bd_m_8010 | IB-C03C: HAL 826 (RUBICON RESEARCH INSTITUTE) | ![image064](https://github.com/paylhorse/ac6-parts/assets/74363924/de49df01-3da6-4a6f-89e1-ad4026e033b9) |
+| bd_m_8020 | IA-C01C: EPHMERA (RUBICON RESEARCH INSTITUTE) | ![image062](https://github.com/paylhorse/ac6-parts/assets/74363924/14a76df1-f04d-4012-aee4-e84e083ab960) |
+| bd_m_8030 | AH-J-120 BASHO (BAWS) |![image038](https://github.com/paylhorse/ac6-parts/assets/74363924/4aabe618-4ebf-43a7-9e08-27b564867b9f) |
+| bd_m_8031 | AH-J-120/RC JAILBREAK (BAWS) | ![image039](https://github.com/paylhorse/ac6-parts/assets/74363924/7444cbf1-b983-48ab-a3c9-64ac9ccb9a2c) |
+| bd_m_8040 | CC-3000 WRECKER (RAD) | ![image054](https://github.com/paylhorse/ac6-parts/assets/74363924/36efd9ab-0cf2-4af0-9af6-95d6a8756644) |
+| bd_m_8060 | EL-PC-00 ALBA (ELCANO FOUNDRY) | ![image058](https://github.com/paylhorse/ac6-parts/assets/74363924/add68e2e-6044-4f92-985a-0cb17fd49899) |
+| bd_m_8350 | CC-2000 ORBITER (RAD) | ![image052](https://github.com/paylhorse/ac6-parts/assets/74363924/0af472af-d094-4aad-9157-37c87e3ccfcb) |
+| bd_m_9400 | CC-2000 ORBITER Damaged? (RAD) | ---- |
+| bs_a_0000 | ? | ---- |
 | bs_a_1010 | partName | image |
 | bs_a_2010 | partName | image |
 | bs_a_3010 | partName | image |
