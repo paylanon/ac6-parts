@@ -105,35 +105,35 @@ A few parts seem to be variants of others, with slightly different detailing...
 | hd_m_8150 | HC-2000/BC SHADE EYE (RAD) | ![image022](https://github.com/paylhorse/ac6-parts/assets/74363924/728d04ee-0f26-4ed4-8e59-f0fac151718f) |
 | hd_m_8350 | HC-2000 FINDER EYE Variant (RAD) | ---- |
 | hd_m_9400 | HC-2000 FINDER EYE Damaged? (RAD) | ---- |
-| lg_m_0000 | partName | image |
-| lg_m_1010 | partName | image |
-| lg_m_1011 | partName | image |
-| lg_m_1080 | partName | image |
-| lg_m_1110 | partName | image |
-| lg_m_1400 | partName | image |
-| lg_m_1410 | partName | image |
-| lg_m_1510 | partName | image |
-| lg_m_2010 | partName | image |
-| lg_m_3010 | partName | image |
-| lg_m_3310 | partName | image |
-| lg_m_4010 | partName | image |
-| lg_m_4110 | partName | image |
-| lg_m_4210 | partName | image |
-| lg_m_4410 | partName | image |
-| lg_m_5010 | partName | image |
-| lg_m_5510 | partName | image |
-| lg_m_6010 | partName | image |
-| lg_m_6320 | partName | image |
-| lg_m_7010 | partName | image |
-| lg_m_7510 | partName | image |
-| lg_m_8010 | partName | image |
-| lg_m_8020 | partName | image |
-| lg_m_8030 | partName | image |
-| lg_m_8031 | partName | image |
-| lg_m_8040 | partName | image |
-| lg_m_8060 | partName | image |
-| lg_m_8350 | partName | image |
-| lg_m_9400 | partName | image |
+| lg_m_0000 | ? | ---- |
+| lg_m_1010 | LG-011 MELANDER (BALAM) | ![image103](https://github.com/paylhorse/ac6-parts/assets/74363924/439d0853-067b-406b-92f5-398c3c99611f) |
+| lg_m_1011 | LG-013 MELANDER C3 (BALAM) | ![image105](https://github.com/paylhorse/ac6-parts/assets/74363924/7c6b641d-41fc-4619-b3dc-8d95b45a9934) |
+| lg_m_1080 | 2S-5000 DESSERT (RAD) | ![image118](https://github.com/paylhorse/ac6-parts/assets/74363924/003d827f-a7df-43d6-a057-8badc584f61b) |
+| lg_m_1110 | Unidentified (o_o) | ![Legs](https://github.com/paylhorse/ac6-parts/assets/74363924/bfcbc708-8440-4a11-ac0e-7858b3674bc0) |
+| lg_m_1400 | 2C-2000 CRAWLER (RAD) | ![image114](https://github.com/paylhorse/ac6-parts/assets/74363924/199dd5b5-cfc1-4e6e-a3e7-9190330ce46f) |
+| lg_m_1410 | LG-033M VERRILL (BALAM) | ![image136](https://github.com/paylhorse/ac6-parts/assets/74363924/03662d3b-6e17-4b8d-8b26-f551f6e22614) |
+| lg_m_1510 | LG-022T BORNEMISSZA (BALAM) | ![image140](https://github.com/paylhorse/ac6-parts/assets/74363924/59a8ca45-f71f-4bf6-a53d-2b0c960a61ac) |
+| lg_m_2010 | DF-LG-08 TIAN-QIANG (DAFENG) | ![image107](https://github.com/paylhorse/ac6-parts/assets/74363924/99a01e08-f84a-488f-903f-909e3dfad2ed) |
+| lg_m_3010 | NACHTREIHER/42E (SCHNEIDER) | ![image110](https://github.com/paylhorse/ac6-parts/assets/74363924/51166f87-8692-4d61-aa92-0d11d85e8dde) |
+| lg_m_3310 | KASUAR/42Z (SCHNEIDER) | ![image130](https://github.com/paylhorse/ac6-parts/assets/74363924/71bb589c-5427-463b-8d0f-ad16630f6f8f) |
+| lg_m_4010 | VP-422 (ARQUEBUS CORP) | ![image109](https://github.com/paylhorse/ac6-parts/assets/74363924/554c41a3-301f-4994-a82b-b0f3f55210ff) |
+| lg_m_4110 | ? | ---- |
+| lg_m_4210 | ? | ---- |
+| lg_m_4410 | VP-424 (ARQUEBUS CORP) | ![image138](https://github.com/paylhorse/ac6-parts/assets/74363924/5a640e15-d19e-4ddb-bd15-67062eeff1cf) |
+| lg_m_5010 | VE-42A (ARQUEBUS CORP) | ![image112](https://github.com/paylhorse/ac6-parts/assets/74363924/c9386440-0255-4bf6-9abf-b009f68e39a9) |
+| lg_m_5510 | VE-42B (ARQUEBUS CORP) | ![image142](https://github.com/paylhorse/ac6-parts/assets/74363924/e9f45b52-ca37-400e-bb41-ed3f88aae5ce) |
+| lg_m_6010 | 06-041 MIND ALPHA (ALLMIND) | ![image124](https://github.com/paylhorse/ac6-parts/assets/74363924/e1f7a07e-5b8d-4b45-914c-32c18dfbb6d6) |
+| lg_m_6320 | 06-042 MIND BETA (ALLMIND) | ![image132](https://github.com/paylhorse/ac6-parts/assets/74363924/4a3adfd0-13ea-45e1-b620-e186b4565032) |
+| lg_m_7010 | EL-TL-10 (FIREMZA) | ![image120](https://github.com/paylhorse/ac6-parts/assets/74363924/226cd497-7b46-46c9-92a4-6329a65bdcd0) |
+| lg_m_7510 | EL-TL-11 (ELCANO FOUNDRY) | ![image144](https://github.com/paylhorse/ac6-parts/assets/74363924/1887a735-6c7e-428c-ae5f-58ba0b93d7fc) |
+| lg_m_8010 | IB-C03L: HAL 826 (RUBICON RESEARCH INSTITUTE) | ![image128](https://github.com/paylhorse/ac6-parts/assets/74363924/695f9e26-b7a6-4c99-81d1-b19ae5db2e43) |
+| lg_m_8020 | IA-C01L: EPHEMERA (RUBICON RESEARCH INSTITUTE) | ![image126](https://github.com/paylhorse/ac6-parts/assets/74363924/76409eca-564e-4810-b9e9-765460417e53) |
+| lg_m_8030 | AL-J-121 BASHO (BAWS) | ![image099](https://github.com/paylhorse/ac6-parts/assets/74363924/7ecea3ed-c7c4-4831-a977-225b4379d9a7) |
+| lg_m_8031 | AL-J-121/RC JAILBREAK (BAWS) | ![image101](https://github.com/paylhorse/ac6-parts/assets/74363924/c32ff62b-c7df-40d1-a1e2-da9f76381376) |
+| lg_m_8040 | 2C-3000 WRECKER (RAD) | ![image116](https://github.com/paylhorse/ac6-parts/assets/74363924/e425677e-757c-493e-8bbd-98e81340a66b) |
+| lg_m_8060 | EL-PL-00 ALBA (ELCANO FOUNDRY) | ![image122](https://github.com/paylhorse/ac6-parts/assets/74363924/071ee766-b50a-485e-b756-625afa337c5b) |
+| lg_m_8350 | RC-2000 SPRING CHICKEN (RAD) | ![image134](https://github.com/paylhorse/ac6-parts/assets/74363924/a0aa7acc-b139-4d7d-999e-d77189ebf0c7) |
+| lg_m_9400 | 2C-2000 CRAWLER Damaged? (RAD) | ---- |
 | wp_a_0000 | partName | image |
 | wp_a_0221 | partName | image |
 | wp_a_0230 | partName | image |
