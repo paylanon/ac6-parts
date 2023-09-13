@@ -134,69 +134,69 @@ A few parts seem to be variants of others, with slightly different detailing...
 | lg_m_8060 | EL-PL-00 ALBA (ELCANO FOUNDRY) | ![image122](https://github.com/paylhorse/ac6-parts/assets/74363924/071ee766-b50a-485e-b756-625afa337c5b) |
 | lg_m_8350 | RC-2000 SPRING CHICKEN (RAD) | ![image134](https://github.com/paylhorse/ac6-parts/assets/74363924/a0aa7acc-b139-4d7d-999e-d77189ebf0c7) |
 | lg_m_9400 | 2C-2000 CRAWLER Damaged? (RAD) | ---- |
-| wp_a_0000 | partName | image |
-| wp_a_0221 | partName | image |
-| wp_a_0230 | partName | image |
-| wp_a_0903 | partName | image |
-| wp_a_0910 | partName | image |
-| wp_a_1410 | partName | image |
-| wp_a_1430 | partName | image |
-| wp_a_2020 | partName | image |
-| wp_a_2110 | partName | image |
-| wp_a_2210 | partName | image |
-| wp_a_2310 | partName | image |
-| wp_a_2410 | partName | image |
-| wp_a_2420 | partName | image |
-| wp_a_2510 | partName | image |
-| wp_a_2610 | partName | image |
-| wp_a_2620 | partName | image |
-| wp_a_2630 | partName | image |
-| wp_a_2631 | partName | image |
-| wp_a_2710 | partName | image |
-| wp_a_2720 | partName | image |
-| wp_a_2730 | partName | image |
-| wp_a_2740 | partName | image |
-| wp_a_2810 | partName | image |
-| wp_a_2820 | partName | image |
-| wp_a_2910 | partName | image |
-| wp_a_3010 | partName | image |
-| wp_a_3020 | partName | image |
-| wp_a_3030 | partName | image |
-| wp_a_4810 | partName | image |
-| wp_a_8960 | partName | image |
-| wp_a_8961 | partName | image |
-| wp_a_8962 | partName | image |
-| wp_a_8963 | partName | image |
-| wp_a_8964 | partName | image |
-| wp_a_8965 | partName | image |
-| wp_a_8966 | partName | image |
-| wp_a_8967 | partName | image |
-| wp_a_8968 | partName | image |
-| wp_a_8969 | partName | image |
-| wp_a_8980 | partName | image |
-| wp_a_8981 | partName | image |
-| wp_a_8982 | partName | image |
-| wp_a_8983 | partName | image |
-| wp_a_8984 | partName | image |
-| wp_a_8985 | partName | image |
-| wp_a_8986 | partName | image |
-| wp_a_8987 | partName | image |
-| wp_a_8988 | partName | image |
-| wp_a_8989 | partName | image |
-| wp_a_8990 | partName | image |
-| wp_a_8991 | partName | image |
-| wp_a_8992 | partName | image |
-| wp_a_8993 | partName | image |
-| wp_a_9010 | partName | image |
-| wp_a_9011 | partName | image |
-| wp_a_9012 | partName | image |
-| wp_a_9013 | partName | image |
-| wp_a_9800 | partName | image |
-| wp_a_9805 | partName | image |
-| wp_a_9900 | partName | image |
-| wp_e_0000 | partName | image |
-| wp_e_0010 | partName | image |
-| wp_e_0020 | partName | image |
+| wp_a_0000 | ? | ---- |
+| wp_a_0221 | ? | ---- |
+| wp_a_0230 | ? | ---- |
+| wp_a_0903 | ? | ---- |
+| wp_a_0910 | ? | ---- |
+| wp_a_1410 | LITTLE GEM Bazooka (MELINITE) | ![image267](https://github.com/paylhorse/ac6-parts/assets/74363924/9b57c9d6-9ab3-476e-8812-cdf856da2b7f) |
+| wp_a_1430 | DF-BA-06 XUAN-GE Bazooka (DAFENG) | ![image263](https://github.com/paylhorse/ac6-parts/assets/74363924/eccf913c-bcf1-4e9a-acf9-81d76dd21173) |
+| wp_a_2020 | ? | ---- |
+| wp_a_2110 | ? | ---- |
+| wp_a_2210 | ? | ---- |
+| wp_a_2310 | Vvc-760PR Plasma Rifle (VCPL) | ![image293](https://github.com/paylhorse/ac6-parts/assets/74363924/78b06a9a-5031-4708-8a6f-c819c9e69ede) |
+| wp_a_2410 | Vvc-760PR Plasma Rifle Variant (VCPL) | ---- |
+| wp_a_2420 | Vvc-760PR Plasma Rifle Variant (VCPL) | ---- |
+| wp_a_2510 | VE-66LRB Laser Rifle (ARQUEBUS CORP) | ![image286](https://github.com/paylhorse/ac6-parts/assets/74363924/51871646-c409-4531-bba0-44b0da9c3947) |
+| wp_a_2610 | WUERGER/66E Laser Shotgun (SCHNEIDER) | ![image288](https://github.com/paylhorse/ac6-parts/assets/74363924/0e963d06-12ba-4bd1-a7c8-6a5487d66c37) |
+| wp_a_2620 | VP-66LS Laser Shotgun (ARQUEBUS CORP) | ![image290](https://github.com/paylhorse/ac6-parts/assets/74363924/f91a7d84-2f92-49cf-85d5-2515c4ab2c8c) |
+| wp_a_2630 | IA-C01W1: NEBULA Plasma Rifle (RUBICON RESEARCH INSTITUTE) | ![image295](https://github.com/paylhorse/ac6-parts/assets/74363924/c35db2d2-2352-4f22-a218-a7d272e6e059) |
+| wp_a_2631 | IA-C01W1: NB-REDSHIFT Coral Rifle (RUBICON RESEARCH INSTITUTE) | ![image296](https://github.com/paylhorse/ac6-parts/assets/74363924/0dc8e731-eb50-48ed-bdb4-dfa57da05856) |
+| wp_a_2710 | VP-66LH Laser Handgun (ARQUEBUS CORP) | ![image292](https://github.com/paylhorse/ac6-parts/assets/74363924/50297abf-a2b6-4ec7-ac6b-0ded335059ee) |
+| wp_a_2720 | VP-66LR Laser Rifle (ARQUEBUS CORP) | ![image283](https://github.com/paylhorse/ac6-parts/assets/74363924/5393cc08-e939-4d71-b4ac-21c156067d26) |
+| wp_a_2730 | IB-C03W1: WLT 011 Coral Rifle (RUBICON RESEARCH INSTITUTE) | ![image298](https://github.com/paylhorse/ac6-parts/assets/74363924/05f2e5e1-39b9-4a33-bef3-95359cf2d9df) |
+| wp_a_2740 | VE-66LRA Laser Rifle (ARQUEBUS CORP) | ![image285](https://github.com/paylhorse/ac6-parts/assets/74363924/9be3e461-a112-4eb0-954e-9d1424bfe5a6) |
+| wp_a_2810 | HI-16: GU-Q1 Pulse Gun (TAKIGAWA) | ![image302](https://github.com/paylhorse/ac6-parts/assets/74363924/a8aedfc4-b0c7-4b0f-94b5-182c7a8ee2f4) |
+| wp_a_2820 | HI-18: GU-A2 Pulse Gun (TAKIGAWA) | ![image304](https://github.com/paylhorse/ac6-parts/assets/74363924/27fbbf79-536f-4516-ab28-dcc81ce7c512) |
+| wp_a_2910 | WB-0000 BAD COOK Flamethrower (RAD) | ![image281](https://github.com/paylhorse/ac6-parts/assets/74363924/d7dff378-7eae-44cf-886a-2b1230eab534) |
+| wp_a_3010 | 44-141 JVLN ALPHA Detonating Bazooka (ALLMIND) | ![image268](https://github.com/paylhorse/ac6-parts/assets/74363924/329384da-7546-4e3b-ad13-ad5cb44f4e43) |
+| wp_a_3020 | VP-66EG Stun Gun (ARQUEBUS CORP) | ![image261](https://github.com/paylhorse/ac6-parts/assets/74363924/3e31299b-1da6-4287-9ce3-22fbb171e51e) |
+| wp_a_3030 | WS-5000 APERITIF Siege Missile Launcher (RAD) | ![image309](https://github.com/paylhorse/ac6-parts/assets/74363924/3c3a1b3b-9827-444d-8cbd-abd44f53e576) |
+| wp_a_4810 | partName |  |
+| wp_a_8960 | FCS-G1/P01 (FURLONG DYNAMICS) | ![image167](https://github.com/paylhorse/ac6-parts/assets/74363924/2394ddc5-8cce-4c8e-bd0c-e84d7201681f) |
+| wp_a_8961 | FCS-G2/P05 (FURLONG DYNAMICS) | ![image168](https://github.com/paylhorse/ac6-parts/assets/74363924/742bd5e5-f8c6-4641-82c9-b69b646e39b9) |
+| wp_a_8962 | FCS-G2/P10SLT (FURLONG DYNAMICS) | ![image170](https://github.com/paylhorse/ac6-parts/assets/74363924/bf9bda97-349d-401b-84bb-c5b690c1b58b) |
+| wp_a_8963 | FCS-G2/P12SML (FURLONG DYNAMICS) | ![image171](https://github.com/paylhorse/ac6-parts/assets/74363924/4ac9e614-d41f-42c6-be16-e01360285e02) |
+| wp_a_8964 | FC-006 ABBOT (BALAM) | ![image172](https://github.com/paylhorse/ac6-parts/assets/74363924/fafc3c72-e41a-4c99-8784-75eb1eada248) |
+| wp_a_8965 | FC-008 TALBOT (BALAM) | ![image174](https://github.com/paylhorse/ac6-parts/assets/74363924/41e7c9b9-0ffc-4ad4-bd5a-9abffbfa16f8) |
+| wp_a_8966 | VE-21A (ARQUEBUS CORP) | ![image176](https://github.com/paylhorse/ac6-parts/assets/74363924/0457a913-9d93-4675-a36c-12d7c530d096) |
+| wp_a_8967 | VE-21B (ARQUEBUS CORP) | ![image178](https://github.com/paylhorse/ac6-parts/assets/74363924/3c833410-74fc-499a-864b-09d2b476efe8) |
+| wp_a_8968 | IA-C01F: OCELLUS (RUBICON RESEARCH INSTITUTE) | ![image180](https://github.com/paylhorse/ac6-parts/assets/74363924/eaeebd62-61b4-4673-aa91-7d721fae02d2) |
+| wp_a_8969 | IB-C03F: WLT 001 (RUBICON RESEARCH INSTITUTE) | ![image182](https://github.com/paylhorse/ac6-parts/assets/74363924/2c21221d-43bf-4e75-ae25-2468ef28334a) |
+| wp_a_8980 | AG-J-098 JOSO (BAWS) | ![image184](https://github.com/paylhorse/ac6-parts/assets/74363924/6d2d04eb-e1b6-4c72-9d03-4f919b2519dd) |
+| wp_a_8981 | DF-GN-02 LING-TAI (DAFENG) | ![image189](https://github.com/paylhorse/ac6-parts/assets/74363924/a402f301-8ddb-4726-a291-4bcceba3aea6) |
+| wp_a_8982 | DF-GN-06 MING-TANG (DAFENG) | ![image190](https://github.com/paylhorse/ac6-parts/assets/74363924/cf56d7ae-4396-4f7a-b633-5ec15e630a01) |
+| wp_a_8983 | VP-20S (ARQUEBUS CORP) | ![image194](https://github.com/paylhorse/ac6-parts/assets/74363924/175e3d20-1cd8-4fce-a85b-a01b5ce94c52) |
+| wp_a_8984 | VP-20C (ARQUEBUS CORP) | ![image196](https://github.com/paylhorse/ac6-parts/assets/74363924/6868a4f2-3fa7-44cc-ae62-49283008dc85) |
+| wp_a_8985 | AG-E-013 YABA (BAWS) | ![image186](https://github.com/paylhorse/ac6-parts/assets/74363924/dad4209a-306c-4d59-8001-a31b844b2dbf) |
+| wp_a_8986 | VE-20A (ARQUEBUS CORP) | ![image200](https://github.com/paylhorse/ac6-parts/assets/74363924/c5886535-88e5-4e9b-a9d2-c5c4a578e7dd) |
+| wp_a_8987 | VE-20B (ARQUEBUS CORP) | ![image202](https://github.com/paylhorse/ac6-parts/assets/74363924/b2e5863c-89c8-461d-a0cf-5dd8fabdd122) |
+| wp_a_8988 | IA-C01G: AORTA (RUBICON RESEARCH INSTITUTE) | ![image205](https://github.com/paylhorse/ac6-parts/assets/74363924/93925ea2-4231-47f4-955e-7df7deb8ba3f) |
+| wp_a_8989 | IB-C03B: NGI 000 (RUBICON RESEARCH INSTITUTE) | ![image207](https://github.com/paylhorse/ac6-parts/assets/74363924/1ca324a5-01a0-420b-87af-fed93f872880) |
+| wp_a_8990 | AG-T-005 HOKUSHI (BAWS) | ![image188](https://github.com/paylhorse/ac6-parts/assets/74363924/4fddf41e-a5e7-4e6e-a373-f40d7607c6fe) |
+| wp_a_8991 | DF-GN-08 SAN-TAI (DAFENG) | ![image192](https://github.com/paylhorse/ac6-parts/assets/74363924/4e50d7f8-3b5c-4827-847d-1af768652095) |
+| wp_a_8992 | VP-20D (ARQUEBUS CORP) | ![image198](https://github.com/paylhorse/ac6-parts/assets/74363924/20cb6bd5-b589-47fb-a531-e5bb51f1e341) |
+| wp_a_8993 | VE-20C (ARQUEBUS CORP) | ![image204](https://github.com/paylhorse/ac6-parts/assets/74363924/4bb8f204-1c08-453b-ba27-34e6f5a00423) |
+| wp_a_9010 | Unidentified | ![Plane](https://github.com/paylhorse/ac6-parts/assets/74363924/45654bd6-41b0-4b89-bdc1-c7af0cb44ee2) |
+| wp_a_9011 | Unidentified Variant | ---- |
+| wp_a_9012 | Unidentified Variant | ---- |
+| wp_a_9013 | Unidentified Variant | ---- |
+| wp_a_9800 | Unidentified Variant | ---- |
+| wp_a_9805 | Unidentified Variant | ---- |
+| wp_a_9900 | ? | ---- |
+| wp_e_0000 | partName |  |
+| wp_e_0010 | partName |  |
+| wp_e_0020 | partName |  |
 | wp_e_0021 | partName | image |
 | wp_e_0030 | partName | image |
 | wp_e_0031 | partName | image |
