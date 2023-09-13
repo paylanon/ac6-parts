@@ -74,37 +74,37 @@ A few parts seem to be variants of others, with slightly different detailing...
 | bs_a_8020 | IA-C01B: GILLS (RUBICON RESEARCH INSTITUTE) | ![image164](https://github.com/paylhorse/ac6-parts/assets/74363924/257d9df2-0752-4e2d-b038-f770a8641807) |
 | bs_a_8030 | AB-J-137 KIKAKU (BAWS) | ![image146](https://github.com/paylhorse/ac6-parts/assets/74363924/b49428bd-0872-4a68-9f48-f92be8c59a0d) |
 | bs_a_8031 | AB-J-137 KIKAKU Variant (BAWS) | ---- |
-| bs_a_8040 | BC-0400 MULE (RAD) | image |
+| bs_a_8040 | BC-0400 MULE (RAD) | ![image160](https://github.com/paylhorse/ac6-parts/assets/74363924/f2d7bf20-747b-4e38-ad56-aeb6ffcf334f) |
 | bs_a_9999 | BST-G1/P10 (FURLONG DYNAMICS) | ![image150](https://github.com/paylhorse/ac6-parts/assets/74363924/73e119f1-1683-425c-939f-12ab770a761f) |
 | cd_a_0000 | ? | ---- |
-| hd_m_0000 | partName | image |
-| hd_m_1010 | partName | image |
-| hd_m_1011 | partName | image |
-| hd_m_1080 | partName | image |
-| hd_m_1110 | partName | image |
-| hd_m_1400 | partName | image |
-| hd_m_1510 | partName | image |
-| hd_m_2010 | partName | image |
-| hd_m_3010 | partName | image |
-| hd_m_3110 | partName | image |
-| hd_m_3310 | partName | image |
-| hd_m_4010 | partName | image |
-| hd_m_4110 | partName | image |
-| hd_m_4210 | partName | image |
-| hd_m_5010 | partName | image |
-| hd_m_5110 | partName | image |
-| hd_m_6010 | partName | image |
-| hd_m_6110 | partName | image |
-| hd_m_7010 | partName | image |
-| hd_m_8010 | partName | image |
-| hd_m_8020 | partName | image |
-| hd_m_8030 | partName | image |
-| hd_m_8031 | partName | image |
-| hd_m_8040 | partName | image |
-| hd_m_8060 | partName | image |
-| hd_m_8150 | partName | image |
-| hd_m_8350 | partName | image |
-| hd_m_9400 | partName | image |
+| hd_m_0000 | ? | ---- |
+| hd_m_1010 | HD-011 MELANDER (BALAM) | ![image003](https://github.com/paylhorse/ac6-parts/assets/74363924/6f8dd254-afe2-4d4b-b9a9-54e5ad1aec1f) |
+| hd_m_1011 | HD-012 MELANDER C3 (BALAM) | ![image007](https://github.com/paylhorse/ac6-parts/assets/74363924/32501107-6882-40b7-a06e-d214ad9d0ec9) |
+| hd_m_1080 | HS-5000 APPETIZER (RAD) | ![image026](https://github.com/paylhorse/ac6-parts/assets/74363924/20177119-26bb-49bc-b6c2-5cdf9769d513) |
+| hd_m_1110 | HD-033M VERRILL (BALAM) | ![image005](https://github.com/paylhorse/ac6-parts/assets/74363924/2e8b970d-b3f2-4842-8107-1085e512380a) |
+| hd_m_1400 | HC-2000 FINDER EYE (RAD) | ![image020](https://github.com/paylhorse/ac6-parts/assets/74363924/fb05b742-5256-4396-90e7-451b693b5b51) |
+| hd_m_1510 | HC-2000 FINDER EYE Variant (RAD) | ---- |
+| hd_m_2010 | DF-HD-08 TIAN-QIANG (DAFENG) | ![image008](https://github.com/paylhorse/ac6-parts/assets/74363924/5bd51705-62d0-418c-8d3c-0dd104caebb1) |
+| hd_m_3010 | NACHTREIHER/44E (SCHNEIDER) | ![image014](https://github.com/paylhorse/ac6-parts/assets/74363924/3baeee2c-1724-42ef-9880-b2379124a21e) |
+| hd_m_3110 | NACHTREIHER/44E Variant (SCHNEIDER) | ---- |
+| hd_m_3310 | KASUAR/44Z (SCHNEIDER) | ![image016](https://github.com/paylhorse/ac6-parts/assets/74363924/8806a988-0ab5-463f-a09b-a8ebe84688ce) |
+| hd_m_4010 | VP-44S (ARQUEBUS CORP) | ![image010](https://github.com/paylhorse/ac6-parts/assets/74363924/660815d3-659c-4e0c-9958-527bd1626596) |
+| hd_m_4110 | VP-44D (ARQUEBUS CORP) | ![image012](https://github.com/paylhorse/ac6-parts/assets/74363924/50e0c37f-150b-4c13-bf58-538100d09610) |
+| hd_m_4210 | ? | ---- |
+| hd_m_5010 | VE-44A (ARQUEBUS CORP) | ![image017](https://github.com/paylhorse/ac6-parts/assets/74363924/0dd2b788-e915-4219-a855-01e1127f79e6) |
+| hd_m_5110 | 20-081 MIND ALPHA (ALLMIND) | ![image032](https://github.com/paylhorse/ac6-parts/assets/74363924/1cb3454a-0aeb-4fd0-b7c1-41d574339f08) |
+| hd_m_6010 | 20-081 MIND ALPHA Variant (ALLMIND) | ---- |
+| hd_m_6110 | 20-082 MIND BETA (ALLMIND) | ![image034](https://github.com/paylhorse/ac6-parts/assets/74363924/97832551-3f83-451e-8552-3a8c41969d2b) |
+| hd_m_7010 | EL-TH-10 FIRMEZA (ELCANO FOUNDRY) | ![image028](https://github.com/paylhorse/ac6-parts/assets/74363924/48e6610a-a1cd-4d56-b50d-01ab04054545) |
+| hd_m_8010 | IB-C03H: HAL 826 (RUBICON RESEARCH INSTITUTE) | ![image036](https://github.com/paylhorse/ac6-parts/assets/74363924/3f983ca5-2f8e-4b16-aa0d-946741269250) |
+| hd_m_8020 | IA-C01H: EPHEMERA (RUBICON RESEARCH INSTITUTE) | ![image035](https://github.com/paylhorse/ac6-parts/assets/74363924/79e9af69-9d3e-4f83-8592-ae6f3a213c56) |
+| hd_m_8030 | AH-J-124 BASHO (BAWS) | ![image001](https://github.com/paylhorse/ac6-parts/assets/74363924/b0f73d5f-64d7-4648-b19e-49ca56f4c204) |
+| hd_m_8031 | AH-J-124/RC JAILBREAK (BAWS) | ![image002](https://github.com/paylhorse/ac6-parts/assets/74363924/58960f0b-01d7-4e46-8c4e-2596b870552c) |
+| hd_m_8040 | HC-3000 WRECKER (RAD) | ![image024](https://github.com/paylhorse/ac6-parts/assets/74363924/4af14a93-8d5e-41a4-b995-0cf48f10d423) |
+| hd_m_8060 | EL-PH-00 ALBA (ELCANO FOUNDRY) | ![image030](https://github.com/paylhorse/ac6-parts/assets/74363924/326712f2-c252-4a8a-94ba-654604e6965e) |
+| hd_m_8150 | HC-2000/BC SHADE EYE (RAD) | ![image022](https://github.com/paylhorse/ac6-parts/assets/74363924/728d04ee-0f26-4ed4-8e59-f0fac151718f) |
+| hd_m_8350 | HC-2000 FINDER EYE Variant (RAD) | ---- |
+| hd_m_9400 | HC-2000 FINDER EYE Damaged? (RAD) | ---- |
 | lg_m_0000 | partName | image |
 | lg_m_1010 | partName | image |
 | lg_m_1011 | partName | image |
