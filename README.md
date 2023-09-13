@@ -31,7 +31,7 @@ A few parts seem to be variants of others, with slightly different detailing...
 | am_m_8010 | IB-C03A: HAL 826 (RUBICON RESEARCH INSTITUTE) | ![image097](https://github.com/paylhorse/ac6-parts/assets/74363924/caa2b67d-78be-4422-a816-524801a86c2b) |
 | am_m_8020 | IA-CO1A: EPHEMERA (RUBICON RESEARCH INSTITUTE) | ![image095](https://github.com/paylhorse/ac6-parts/assets/74363924/2b640efd-a3eb-4715-be1a-08757935dcc9) |
 | am_m_8030 | AA-J-123 BASHO (BAWS) | ![image066](https://github.com/paylhorse/ac6-parts/assets/74363924/bb974fc4-a94b-43d8-85d2-f13dbc00b7ac) |
-| am_m_8031 | AA-J-123/RC JAILBREAK (BAWS) |![image068](https://github.com/paylhorse/ac6-parts/assets/74363924/09fad13e-0185-43a7-9c97-9f32c1b0a93b) |
+| am_m_8031 | AA-J-123/RC JAILBREAK (BAWS) | ![image068](https://github.com/paylhorse/ac6-parts/assets/74363924/09fad13e-0185-43a7-9c97-9f32c1b0a93b) |
 | am_m_8040 | AC-3000 WRECKER (RAD) | ![image085](https://github.com/paylhorse/ac6-parts/assets/74363924/108e954b-3415-4d30-948d-ade62b001e8e) |
 | am_m_8060 | EL-PA-00 ALBA (ELCANO FOUNDRY) | ![image091](https://github.com/paylhorse/ac6-parts/assets/74363924/3114b017-0822-47fb-898c-5e1e5c596ed9) |
 | am_m_8350 | AC-2000 TOOL ARM Variant (RAD) | ---- |
@@ -51,32 +51,32 @@ A few parts seem to be variants of others, with slightly different detailing...
 | bd_m_4110 | ? | ---- |
 | bd_m_4210 | ? | ---- |
 | bd_m_5010 | VE-40A (ARQUEBUS CORP) | ![image050](https://github.com/paylhorse/ac6-parts/assets/74363924/88f1bc9f-2af3-47ab-b1b6-29b9114e92c9) |
-| bd_m_6010 | 07-061 MIND ALPHA (ALLMIND) |![image060](https://github.com/paylhorse/ac6-parts/assets/74363924/89bdd61c-a825-43b3-afd0-e70fd1b29477) |
+| bd_m_6010 | 07-061 MIND ALPHA (ALLMIND) | ![image060](https://github.com/paylhorse/ac6-parts/assets/74363924/89bdd61c-a825-43b3-afd0-e70fd1b29477) |
 | bd_m_6110 | 07-061 MIND ALPHA Variant (ALLMIND) | ---- |
 | bd_m_7010 | EL-TC-10 FIRMEZA (ELCANO FOUNDRY) | ![image056](https://github.com/paylhorse/ac6-parts/assets/74363924/757ff34e-1af6-4892-acb4-63b0545f3418) |
 | bd_m_8010 | IB-C03C: HAL 826 (RUBICON RESEARCH INSTITUTE) | ![image064](https://github.com/paylhorse/ac6-parts/assets/74363924/de49df01-3da6-4a6f-89e1-ad4026e033b9) |
 | bd_m_8020 | IA-C01C: EPHMERA (RUBICON RESEARCH INSTITUTE) | ![image062](https://github.com/paylhorse/ac6-parts/assets/74363924/14a76df1-f04d-4012-aee4-e84e083ab960) |
-| bd_m_8030 | AH-J-120 BASHO (BAWS) |![image038](https://github.com/paylhorse/ac6-parts/assets/74363924/4aabe618-4ebf-43a7-9e08-27b564867b9f) |
+| bd_m_8030 | AH-J-120 BASHO (BAWS) | ![image038](https://github.com/paylhorse/ac6-parts/assets/74363924/4aabe618-4ebf-43a7-9e08-27b564867b9f) |
 | bd_m_8031 | AH-J-120/RC JAILBREAK (BAWS) | ![image039](https://github.com/paylhorse/ac6-parts/assets/74363924/7444cbf1-b983-48ab-a3c9-64ac9ccb9a2c) |
 | bd_m_8040 | CC-3000 WRECKER (RAD) | ![image054](https://github.com/paylhorse/ac6-parts/assets/74363924/36efd9ab-0cf2-4af0-9af6-95d6a8756644) |
 | bd_m_8060 | EL-PC-00 ALBA (ELCANO FOUNDRY) | ![image058](https://github.com/paylhorse/ac6-parts/assets/74363924/add68e2e-6044-4f92-985a-0cb17fd49899) |
 | bd_m_8350 | CC-2000 ORBITER (RAD) | ![image052](https://github.com/paylhorse/ac6-parts/assets/74363924/0af472af-d094-4aad-9157-37c87e3ccfcb) |
 | bd_m_9400 | CC-2000 ORBITER Damaged? (RAD) | ---- |
 | bs_a_0000 | ? | ---- |
-| bs_a_1010 | partName | image |
-| bs_a_2010 | partName | image |
-| bs_a_3010 | partName | image |
-| bs_a_4010 | partName | image |
-| bs_a_5010 | partName | image |
-| bs_a_6010 | partName | image |
-| bs_a_7010 | partName | image |
-| bs_a_8010 | partName | image |
-| bs_a_8020 | partName | image |
-| bs_a_8030 | partName | image |
-| bs_a_8031 | partName | image |
-| bs_a_8040 | partName | image |
-| bs_a_9999 | partName | image |
-| cd_a_0000 | partName | image |
+| bs_a_1010 | BST-G2/P04 (FURLONG DYNAMICS) | ![image148](https://github.com/paylhorse/ac6-parts/assets/74363924/4847ffd6-2bb3-4e1a-a927-9a24cf40bd7d) |
+| bs_a_2010 | BC-0600 12345 (RAD) | ![image158](https://github.com/paylhorse/ac6-parts/assets/74363924/a051a4e6-892f-488a-b48a-38d212f88ee1) |
+| bs_a_3010 | ALULA/21E (SCHNEIDER) | ![image153](https://github.com/paylhorse/ac6-parts/assets/74363924/74c52e6b-1e23-48bd-a05c-176a14a9001e) |
+| bs_a_4010 | FLUEGEL (SCHNEIDER) | ![image155](https://github.com/paylhorse/ac6-parts/assets/74363924/765fba85-8d9b-4f42-9fbd-f16ab9adc16c) |
+| bs_a_5010 | BUERZEL/21D (SCHNEIDER) | ![image156](https://github.com/paylhorse/ac6-parts/assets/74363924/52a88828-1cfa-4584-bfaf-4ea4635ada52) |
+| bs_a_6010 | BST-G2/P06SPD (FURLONG DYNAMICS) | ![image152](https://github.com/paylhorse/ac6-parts/assets/74363924/a651ef49-8ba6-43b2-94e6-49a0b294bb0b) |
+| bs_a_7010 | BC-0200 GRIDWALKER (RAD) | ![image162](https://github.com/paylhorse/ac6-parts/assets/74363924/432b2eb0-475c-4ff6-8c09-8145b4c820cb) |
+| bs_a_8010 | IB-C03B: NGI 001 (RUBICON RESEARCH INSTITUTE) | ![image165](https://github.com/paylhorse/ac6-parts/assets/74363924/be01f67c-4e4f-499d-b767-77c10aa7a782) |
+| bs_a_8020 | IA-C01B: GILLS (RUBICON RESEARCH INSTITUTE) | ![image164](https://github.com/paylhorse/ac6-parts/assets/74363924/257d9df2-0752-4e2d-b038-f770a8641807) |
+| bs_a_8030 | AB-J-137 KIKAKU (BAWS) | ![image146](https://github.com/paylhorse/ac6-parts/assets/74363924/b49428bd-0872-4a68-9f48-f92be8c59a0d) |
+| bs_a_8031 | AB-J-137 KIKAKU Variant (BAWS) | ---- |
+| bs_a_8040 | BC-0400 MULE (RAD) | image |
+| bs_a_9999 | BST-G1/P10 (FURLONG DYNAMICS) | ![image150](https://github.com/paylhorse/ac6-parts/assets/74363924/73e119f1-1683-425c-939f-12ab770a761f) |
+| cd_a_0000 | ? | ---- |
 | hd_m_0000 | partName | image |
 | hd_m_1010 | partName | image |
 | hd_m_1011 | partName | image |
