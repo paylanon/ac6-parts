@@ -10,7 +10,7 @@ A few parts seem to be variants of others, with slightly different detailing...
 
 ...and some that appear to be damaged?
 
-wp_e_N seem to be the generic weapons assigned to enemy units
+wp_e_N seem to be the generic weapons used by enemy units
 
 | Part ID  | Part Name (Manufacturer) | Preview |
 | ------------- | ------------- | ------------- |
@@ -435,6 +435,7 @@ wp_e_N seem to be the generic weapons assigned to enemy units
 | wp_l_4970 | IB-C03W4: NGI 028 Coral Shield (RUBICON RESEARCH INSTITUTE) | ![image321](https://github.com/paylhorse/ac6-parts/assets/74363924/f6d2b4a9-348b-4c56-a2fe-90dae9c9dc38) |
 | wp_l_4980 | VE-61PSA Pulse Scutum (ARQUEBUS CORP) | ![image319](https://github.com/paylhorse/ac6-parts/assets/74363924/c7051c8a-4d36-4c82-afa2-b1a643a188dd) |
 | wp_l_5010 | VP-60LCD Diffuse Laser Cannon (ARQUEBUS CORP) | ![image334](https://github.com/paylhorse/ac6-parts/assets/74363924/f69db2fe-966e-46fa-b2b5-2efc1c8d9ec5) |
+| wp_l_5710 | BO-044 HUXLEY Bullet Orbit (BALAM) | ![image382](https://github.com/paylhorse/ac6-parts/assets/74363924/f42c1296-d0c0-4b12-8168-dfb4d5ee818a) |
 | wp_l_5720 | 45-091 ORBT Laser Orbit (ALLMIND) | ![image384](https://github.com/paylhorse/ac6-parts/assets/74363924/b33a7a24-a2f9-4a73-b8ce-6833ea148d4e) |
 | wp_l_5810 | Vvc-700LD Laser Drone (VCPL) | ![image388](https://github.com/paylhorse/ac6-parts/assets/74363924/559bcd43-d513-4605-af1c-461a9b1fc42b) |
 | wp_l_5820 | VP-60LT Laser Turret (ARQUEBUS CORP) | ![image386](https://github.com/paylhorse/ac6-parts/assets/74363924/556471aa-b2c4-4571-8a4b-33182bb26f5c) |
@@ -503,8 +504,8 @@ wp_e_N seem to be the generic weapons assigned to enemy units
 | wp_r_4820 | EULE/60D Pulse Shield Launcher (SCHNEIDER) | ![image340](https://github.com/paylhorse/ac6-parts/assets/74363924/8da11e5f-a112-4312-b7c5-a843ab94c545) |
 | wp_r_4830 | VE-60SNA Stun Needle Launcher (ARQUEBUS CORP) | ![image328](https://github.com/paylhorse/ac6-parts/assets/74363924/f54c3186-579b-485f-aa42-dd4f22d0c470) |
 | wp_r_5010 | VP-60LCD Diffuse Laser Cannon (ARQUEBUS CORP) | ![image334](https://github.com/paylhorse/ac6-parts/assets/74363924/f69db2fe-966e-46fa-b2b5-2efc1c8d9ec5) |
-| wp_r_5630 | partName | image |
-| wp_r_5710 | partName | image |
+| wp_r_5630 | ? | ---- |
+| wp_r_5710 | BO-044 HUXLEY Bullet Orbit (BALAM) | ![image382](https://github.com/paylhorse/ac6-parts/assets/74363924/f42c1296-d0c0-4b12-8168-dfb4d5ee818a) |
 | wp_r_5720 | 45-091 ORBT Laser Orbit (ALLMIND) | ![image384](https://github.com/paylhorse/ac6-parts/assets/74363924/b33a7a24-a2f9-4a73-b8ce-6833ea148d4e) |
 | wp_r_5810 | Vvc-700LD Laser Drone (VCPL) | ![image388](https://github.com/paylhorse/ac6-parts/assets/74363924/559bcd43-d513-4605-af1c-461a9b1fc42b) |
 | wp_r_5820 | VP-60LT Laser Turret (ARQUEBUS CORP) | ![image386](https://github.com/paylhorse/ac6-parts/assets/74363924/556471aa-b2c4-4571-8a4b-33182bb26f5c) |
