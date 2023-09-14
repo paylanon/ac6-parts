@@ -10,7 +10,7 @@ A few parts seem to be variants of others, with slightly different detailing...
 
 ...and some that appear to be damaged?
 
-wp_e_N seem to be generic enemy weapons
+wp_e_N seem to be the generic weapons assigned to enemy units
 
 | Part ID  | Part Name (Manufacturer) | Preview |
 | ------------- | ------------- | ------------- |
