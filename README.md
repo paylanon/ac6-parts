@@ -10,6 +10,8 @@ A few parts seem to be variants of others, with slightly different detailing...
 
 ...and some that appear to be damaged?
 
+wp_e_N seem to be generic enemy weapons
+
 | Part ID  | Part Name (Manufacturer) | Preview |
 | ------------- | ------------- | ------------- |
 | am_m_0000 | ? | ---- |
@@ -194,21 +196,21 @@ A few parts seem to be variants of others, with slightly different detailing...
 | wp_a_9800 | Unidentified Variant | ---- |
 | wp_a_9805 | Unidentified Variant | ---- |
 | wp_a_9900 | ? | ---- |
-| wp_e_0000 | partName |  |
-| wp_e_0010 | partName |  |
-| wp_e_0020 | partName |  |
-| wp_e_0021 | partName | image |
-| wp_e_0030 | partName | image |
-| wp_e_0031 | partName | image |
-| wp_e_0040 | partName | image |
-| wp_e_0050 | partName | image |
-| wp_e_0051 | partName | image |
-| wp_e_0060 | partName | image |
-| wp_e_0100 | partName | image |
-| wp_e_0101 | partName | image |
-| wp_e_0110 | partName | image |
-| wp_e_0120 | partName | image |
-| wp_e_0150 | partName | image |
+| wp_e_0000 | Generic Handgun | ![Gun](https://github.com/paylhorse/ac6-parts/assets/74363924/c5d70c78-e972-4581-a4a2-bb6cf0400543) |
+| wp_e_0010 | Generic Rifle | ![Rifle](https://github.com/paylhorse/ac6-parts/assets/74363924/42835fd1-47f9-494c-b2d6-1a3ec33e5004) |
+| wp_e_0020 | Generic SMG | ![AR](https://github.com/paylhorse/ac6-parts/assets/74363924/08c7e4b5-ff42-4e2c-921e-7d758a84e706) |
+| wp_e_0021 | Generic SMG Variant | ---- |
+| wp_e_0030 | Generic Shotgun | ![Shotgun](https://github.com/paylhorse/ac6-parts/assets/74363924/74255304-912b-4c3c-aeea-567e1e7f2bd1) |
+| wp_e_0031 | Generic Shotgun Variant | ---- |
+| wp_e_0040 | Generic Launcher | ![Launcher](https://github.com/paylhorse/ac6-parts/assets/74363924/bf85d6b1-cd45-4c41-bb6c-c927a69077d9) |
+| wp_e_0050 | Generic Unidentified | ![Something](https://github.com/paylhorse/ac6-parts/assets/74363924/3c401c61-c2af-4e5a-9f81-dd80eaf2dcd5) |
+| wp_e_0051 | Generic Unidentified Variant | ---- |
+| wp_e_0060 | Twin Generic Rifles | ---- |
+| wp_e_0100 | Twin Generic Gatling Guns | ![Miniguns](https://github.com/paylhorse/ac6-parts/assets/74363924/98a78361-5992-410a-a509-67fdf204922b) |
+| wp_e_0101 | Twin BR55s (UNSC) | ![BRs](https://github.com/paylhorse/ac6-parts/assets/74363924/9d4ce638-30d7-45db-ac37-10da782376b6) |
+| wp_e_0110 | Generic Lasergun | ![Lasergun](https://github.com/paylhorse/ac6-parts/assets/74363924/28979184-2da3-48ff-afc2-4f87e7263f76) |
+| wp_e_0120 | Generic Gatling Gun | ---- |
+| wp_e_0150 | Generic Assault Rifle | ![ActualAR](https://github.com/paylhorse/ac6-parts/assets/74363924/a3a051ed-819c-448a-9e30-98c083c0866f) |
 | wp_e_0151 | partName | image |
 | wp_e_0170 | partName | image |
 | wp_e_0190 | partName | image |
@@ -348,6 +350,96 @@ A few parts seem to be variants of others, with slightly different detailing...
 | wp_e_9920 | partName | image |
 | wp_e_9930 | partName | image |
 | wp_e_9960 | partName | image |
+| wp_l_0010 | PB-033m ASHMEAD Pile Bunker (BALAM) | image |
+| wp_l_0211 | HI-32: BU-TT/A Pulse Blade (TAKIGAWA) | image |
+| wp_l_0221 | Vvc-770LB Laser Blade (VCPL) | image |
+| wp_l_0230 | IB-C03W2: WLT 101 Coral Oscillator (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_0241 | VP-67LD Laser Dagger (ARQUEBUS CORP) | image |
+| wp_l_0250 | IA-C01W2: MOONLIGHT Light Wave Blade (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_0251 | IA-C01W2: ML-REDSHIFT Coral Oscillator (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_0411 | Vvc-774LS Laser Slicer (VCPL) | image |
+| wp_l_0510 | DF-ET09 TAI-YANG-SHOU Explosive Thrower (DAFENG) | image |
+| wp_l_0610 | VE-67LLA Laser Lance (ARQUEBUS CORP) | image |
+| wp_l_0910 | VP-67EB Stun Baton (ARQUEBUS CORP) | image |
+| wp_l_1012 | partName | image |
+| wp_l_1210 | 44-143 HMMR Plasma Thrower (ALLMIND) | image |
+| wp_l_1310 | DF-GR-07 GOU-CHEN Grenade Launcher (DAFENG) | image |
+| wp_l_1320 | DIZZY Grenade Launcher (MELINITE) | image |
+| wp_l_1410 | LITTLE GEM Bazooka (MELINITE) | image |
+| wp_l_1420 | MAGESTIC Bazooka (MELINITE) | image |
+| wp_l_1430 | DF-BA-06 XUAN-GE Bazooka (DAFENG) | image |
+| wp_l_1510 | WR-0777 SWEET SIXTEEN Shotgun (RAD) | image |
+| wp_l_1520 | SG-026 HALDEMAN Shotgun (BALAM) | image |
+| wp_l_1530 | SG-027 ZIMMERMAN Shotgun (BALAM) | image |
+| wp_l_1610 | MA-J-200 RANSETSU-RF Burst Rifle (BAWS) | image |
+| wp_l_1620 | LR-036 CURTIS Linear Rifle (BALAM) | image |
+| wp_l_1630 | LR-037 HARRIS Linear Rifle (BALAM) | image |
+| wp_l_1710 | MA-J-201 RANSETSU-AR Burst Assault Rifle (BAWS) | image |
+| wp_l_1720 | RF-024 TURNER Assault Rifle (BALAM) | image |
+| wp_l_1730 | RF-025 SCUDDER Assault Rifle (BALAM) | image |
+| wp_l_1810 | MA-E-210 ETSUJIN Burst Machine Gun (DAFENG) | image |
+| wp_l_1820 | MG-014 LUDLOW Machine Gun (BALAM) | image |
+| wp_l_1830 | DF-MG-02 CHANG-CHEN Machine Gun (DAFENG) | image |
+| wp_l_1910 | DF-GA-08 HU-BEN Gatling Gun (DAFENG) | image |
+| wp_l_2010 | EL-PW-00 VIENTO Needle Gun (ELCANO FOUNDRY) | image |
+| wp_l_2020 | MA-E-211 SAMPU Burst Handgun (BAWS) | image |
+| wp_l_2030 | HG-003 COQUILLETT Handgun (BALAM) | image |
+| wp_l_2040 | HG-004 DUCKETT Handgun (BALAM) | image |
+| wp_l_2110 | MA-T-223 KYORIKU Jamming Bomb Launcher (BAWS) | image |
+| wp_l_2120 | KYORAI Napalm Bomb Launcher (BAWS) | image |
+| wp_l_2130 | WS-1200 THERAPIST Stun Bomb Launcher (RAD) | image |
+| wp_l_2210 | HML-G2/P19MLT-04 Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_2220 | HML-G3/P08SPL-06 Split Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_2310 | IRIDIUM Grenade Launcher (MELINITE) | image |
+| wp_l_2420 | 44-142 KRSV Multi Energy Rifle (ALLMIND) | image |
+| wp_l_2720 | VP-66LR Laser Rifle (ARQUEBUS CORP) | image |
+| wp_l_3010 | ? | ---- |
+| wp_l_4010 | EARSHOT Spread Bazooka (BALAM) | image |
+| wp_l_4110 | SB-033M MORLEY Spread Bazooka (BALAM) | image |
+| wp_l_4210 | Vvc-703PM Plasma Missile Launcher (VCPL) | image |
+| wp_l_4211 | Vvc-706PM Plasma Missile Launcher (VCPL) | image |
+| wp_l_4220 | Vvc-70PM Plasma Missile Launcher (VCPL) | image |
+| wp_l_4230 | BML-G3/P05ACT-02 Active Homing Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4231 | BML-G3/P04ACT-01 Active Homing Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4240 | IB-C03W3: NGI 006 Coral Missile Launcher (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_4250 | BML-G1/P07VTC-12 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4251 | BML-G1/P01VTC-04 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4252 | BML-G1/P03VTC-08 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4260 | 45-091 JVLN BETA Detonating Missile Launcher (ALLMIND) | image |
+| wp_l_4280 | WS-5001 SOUP Scatter Missile Launcher (RAD) | image |
+| wp_l_4290 | BML-G2/P03MLT-06 Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4291 | BML-G1/P20MLT-04 Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4292 | BML-G2/P05MLT-10 Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4300 | BML-G1/P32DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4301 | BML-G2/P08DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4302 | BML-G2/P17SPL-16 Split Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4303 | BML-G1/P31DUO-02 Dual Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4310 | BML-G2/P19SPL-12 Split Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4311 | BML-G2/P16SPL-08 Split Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4320 | BML-G1/P29CNT Container Missile Launcher (FURLONG DYNAMICS) | image |
+| wp_l_4330 | EL-PW-01 TRUENO Needle Missile Launcher (ELCANO FOUNDRY) | image |
+| wp_l_4340 | WR-0999 DELIVERY BOY Cluster Missile Launcher (RAD) | image |
+| wp_l_4350 | IA-C01W3: AURORA Light Wave Cannon (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_4410 | SONGBIRDS Grenade Cannon (MELINITE) | image |
+| wp_l_4510 | FASAN/60E Plasma Cannon (SCHNEIDER) | image |
+| wp_l_4610 | VP-60LCS Laser Cannon (ARQUEBUS CORP) | image |
+| wp_l_4710 | VE-60LCA Laser Cannon (ARQUEBUS CORP) | image |
+| wp_l_4810 | KRANICH/60Z Pulse Cannon (SCHNEIDER) | image |
+| wp_l_4820 | EULE/60D Pulse Shield Launcher (SCHNEIDER) | image |
+| wp_l_4830 | VE-60SNA Stun Needle Launcher (ARQUEBUS CORP) | image |
+| wp_l_4910 | VP-61PB Pulse Buckler (ARQUEBUS CORP) | image |
+| wp_l_4920 | SI-24: SU-Q5 Pulse Shield (TAKIGAWA) | image |
+| wp_l_4940 | VP-61PS Pulse Shield (ARQUEBUS CORP) | image |
+| wp_l_4950 | SI-27: SU-R8 Pulse Shield (TAKIGAWA) | image |
+| wp_l_4960 | SI-29:SU-TT/C Pulse Buckler (TAKIGAWA) | image |
+| wp_l_4970 | IB-C03W4: NGI 028 Coral Shield (RUBICON RESEARCH INSTITUTE) | image |
+| wp_l_4980 | VE-61PSA Pulse Scutum (ARQUEBUS CORP) | image |
+| wp_l_5010 | VP-60LCD Diffuse Laser Cannon (ARQUEBUS CORP) | image |
+| wp_l_5720 | 45-091 ORBT Laser Orbit (ALLMIND) | image |
+| wp_l_5810 | Vvc-700LD Laser Drone (VCPL) | image |
+| wp_l_5820 | VP-60LT Laser Turret (ARQUEBUS CORP) | image |
+| wp_l_8950 | ---- | image |
+| wp_l_8955 | ---- | image |
 | wp_r_1310 | partName | image |
 | wp_r_1320 | partName | image |
 | wp_r_1410 | partName | image |
