@@ -205,7 +205,7 @@ wp_e_N seem to be generic enemy weapons
 | wp_e_0040 | Generic Launcher | ![Launcher](https://github.com/paylhorse/ac6-parts/assets/74363924/bf85d6b1-cd45-4c41-bb6c-c927a69077d9) |
 | wp_e_0050 | Generic Unidentified | ![Something](https://github.com/paylhorse/ac6-parts/assets/74363924/3c401c61-c2af-4e5a-9f81-dd80eaf2dcd5) |
 | wp_e_0051 | Generic Unidentified Variant | ---- |
-| wp_e_0060 | Twin Generic Rifles | ---- |
+| wp_e_0060 | Twin Generic SMGs | ---- |
 | wp_e_0100 | Twin Generic Gatling Guns | ![Miniguns](https://github.com/paylhorse/ac6-parts/assets/74363924/98a78361-5992-410a-a509-67fdf204922b) |
 | wp_e_0101 | Twin BR55s (UNSC) | ![BRs](https://github.com/paylhorse/ac6-parts/assets/74363924/9d4ce638-30d7-45db-ac37-10da782376b6) |
 | wp_e_0110 | Generic Lasergun | ![Lasergun](https://github.com/paylhorse/ac6-parts/assets/74363924/28979184-2da3-48ff-afc2-4f87e7263f76) |
@@ -350,96 +350,96 @@ wp_e_N seem to be generic enemy weapons
 | wp_e_9920 | partName | image |
 | wp_e_9930 | partName | image |
 | wp_e_9960 | partName | image |
-| wp_l_0010 | PB-033m ASHMEAD Pile Bunker (BALAM) | image |
-| wp_l_0211 | HI-32: BU-TT/A Pulse Blade (TAKIGAWA) | image |
-| wp_l_0221 | Vvc-770LB Laser Blade (VCPL) | image |
-| wp_l_0230 | IB-C03W2: WLT 101 Coral Oscillator (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_0241 | VP-67LD Laser Dagger (ARQUEBUS CORP) | image |
-| wp_l_0250 | IA-C01W2: MOONLIGHT Light Wave Blade (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_0251 | IA-C01W2: ML-REDSHIFT Coral Oscillator (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_0411 | Vvc-774LS Laser Slicer (VCPL) | image |
-| wp_l_0510 | DF-ET09 TAI-YANG-SHOU Explosive Thrower (DAFENG) | image |
-| wp_l_0610 | VE-67LLA Laser Lance (ARQUEBUS CORP) | image |
-| wp_l_0910 | VP-67EB Stun Baton (ARQUEBUS CORP) | image |
-| wp_l_1012 | partName | image |
-| wp_l_1210 | 44-143 HMMR Plasma Thrower (ALLMIND) | image |
-| wp_l_1310 | DF-GR-07 GOU-CHEN Grenade Launcher (DAFENG) | image |
-| wp_l_1320 | DIZZY Grenade Launcher (MELINITE) | image |
-| wp_l_1410 | LITTLE GEM Bazooka (MELINITE) | image |
-| wp_l_1420 | MAGESTIC Bazooka (MELINITE) | image |
-| wp_l_1430 | DF-BA-06 XUAN-GE Bazooka (DAFENG) | image |
-| wp_l_1510 | WR-0777 SWEET SIXTEEN Shotgun (RAD) | image |
-| wp_l_1520 | SG-026 HALDEMAN Shotgun (BALAM) | image |
-| wp_l_1530 | SG-027 ZIMMERMAN Shotgun (BALAM) | image |
-| wp_l_1610 | MA-J-200 RANSETSU-RF Burst Rifle (BAWS) | image |
-| wp_l_1620 | LR-036 CURTIS Linear Rifle (BALAM) | image |
-| wp_l_1630 | LR-037 HARRIS Linear Rifle (BALAM) | image |
-| wp_l_1710 | MA-J-201 RANSETSU-AR Burst Assault Rifle (BAWS) | image |
-| wp_l_1720 | RF-024 TURNER Assault Rifle (BALAM) | image |
-| wp_l_1730 | RF-025 SCUDDER Assault Rifle (BALAM) | image |
-| wp_l_1810 | MA-E-210 ETSUJIN Burst Machine Gun (DAFENG) | image |
-| wp_l_1820 | MG-014 LUDLOW Machine Gun (BALAM) | image |
-| wp_l_1830 | DF-MG-02 CHANG-CHEN Machine Gun (DAFENG) | image |
-| wp_l_1910 | DF-GA-08 HU-BEN Gatling Gun (DAFENG) | image |
-| wp_l_2010 | EL-PW-00 VIENTO Needle Gun (ELCANO FOUNDRY) | image |
-| wp_l_2020 | MA-E-211 SAMPU Burst Handgun (BAWS) | image |
-| wp_l_2030 | HG-003 COQUILLETT Handgun (BALAM) | image |
-| wp_l_2040 | HG-004 DUCKETT Handgun (BALAM) | image |
-| wp_l_2110 | MA-T-223 KYORIKU Jamming Bomb Launcher (BAWS) | image |
-| wp_l_2120 | KYORAI Napalm Bomb Launcher (BAWS) | image |
-| wp_l_2130 | WS-1200 THERAPIST Stun Bomb Launcher (RAD) | image |
-| wp_l_2210 | HML-G2/P19MLT-04 Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_2220 | HML-G3/P08SPL-06 Split Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_2310 | IRIDIUM Grenade Launcher (MELINITE) | image |
-| wp_l_2420 | 44-142 KRSV Multi Energy Rifle (ALLMIND) | image |
-| wp_l_2720 | VP-66LR Laser Rifle (ARQUEBUS CORP) | image |
+| wp_l_0010 | PB-033m ASHMEAD Pile Bunker (BALAM) | ![image209](https://github.com/paylhorse/ac6-parts/assets/74363924/76e9dcb4-bbcf-4d3f-9557-4318c0e5f611) |
+| wp_l_0211 | HI-32: BU-TT/A Pulse Blade (TAKIGAWA) | ![image224](https://github.com/paylhorse/ac6-parts/assets/74363924/e98cf646-7bc4-4262-a84f-5a701aa5c756) |
+| wp_l_0221 | Vvc-770LB Laser Blade (VCPL) | ![image219](https://github.com/paylhorse/ac6-parts/assets/74363924/fd97be0d-b683-45ac-a8b0-0dc5c1a4ab65) |
+| wp_l_0230 | IB-C03W2: WLT 101 Coral Oscillator (RUBICON RESEARCH INSTITUTE) | ![image230](https://github.com/paylhorse/ac6-parts/assets/74363924/45435f89-1e54-48d1-9f1a-3d27cab39f2d) |
+| wp_l_0241 | VP-67LD Laser Dagger (ARQUEBUS CORP) | ![image217](https://github.com/paylhorse/ac6-parts/assets/74363924/10a76bd2-a231-4e08-bc5a-1f516d3390eb) |
+| wp_l_0250 | IA-C01W2: MOONLIGHT Light Wave Blade (RUBICON RESEARCH INSTITUTE) | ![image226](https://github.com/paylhorse/ac6-parts/assets/74363924/8a2094d8-d510-43ce-8396-372d4fa65ae4) |
+| wp_l_0251 | IA-C01W2: ML-REDSHIFT Coral Oscillator (RUBICON RESEARCH INSTITUTE) | ![image228](https://github.com/paylhorse/ac6-parts/assets/74363924/c92cf90a-6cfc-4f74-b115-8c12f9eb57d4) |
+| wp_l_0411 | Vvc-774LS Laser Slicer (VCPL) | ![image220](https://github.com/paylhorse/ac6-parts/assets/74363924/17f2bee1-4755-482d-8a15-eff6e66783cc) |
+| wp_l_0510 | DF-ET09 TAI-YANG-SHOU Explosive Thrower (DAFENG) | ![image211](https://github.com/paylhorse/ac6-parts/assets/74363924/b3b2e364-9206-4c09-8f8b-3dc7d1196050) |
+| wp_l_0610 | VE-67LLA Laser Lance (ARQUEBUS CORP) | ![image222](https://github.com/paylhorse/ac6-parts/assets/74363924/9404a5e8-af90-4a83-ab3b-6b8dabce492f) |
+| wp_l_0910 | VP-67EB Stun Baton (ARQUEBUS CORP) | ![image215](https://github.com/paylhorse/ac6-parts/assets/74363924/01690dd5-5632-4b4c-a200-c2545319ef9d) |
+| wp_l_1012 | WB-0010 DOUBLE TROUBLE Chainsaw (RAD) | ![image213](https://github.com/paylhorse/ac6-parts/assets/74363924/370a1a3d-4f86-4c92-9e84-8265b360554d) |
+| wp_l_1210 | 44-143 HMMR Plasma Thrower (ALLMIND) | ![image223](https://github.com/paylhorse/ac6-parts/assets/74363924/f21e217f-f675-42a6-b2a0-b2aca04115e7) |
+| wp_l_1310 | DF-GR-07 GOU-CHEN Grenade Launcher (DAFENG) | ![image270](https://github.com/paylhorse/ac6-parts/assets/74363924/331def74-f425-4ddc-995f-56e70e03f6f1) |
+| wp_l_1320 | DIZZY Grenade Launcher (MELINITE) | ![image271](https://github.com/paylhorse/ac6-parts/assets/74363924/2a1f9ef8-6de0-4567-9ffe-757432495506) |
+| wp_l_1410 | LITTLE GEM Bazooka (MELINITE) | ![image267](https://github.com/paylhorse/ac6-parts/assets/74363924/60d2f0d1-9ea9-43e6-b487-2de872d226f0) |
+| wp_l_1420 | MAGESTIC Bazooka (MELINITE) | ![image265](https://github.com/paylhorse/ac6-parts/assets/74363924/4950da03-9612-4408-9ffa-e3ed6201850f) |
+| wp_l_1430 | DF-BA-06 XUAN-GE Bazooka (DAFENG) | ![image263](https://github.com/paylhorse/ac6-parts/assets/74363924/a8cb4ef9-4cd7-42a8-a51b-cf55bb750600) |
+| wp_l_1510 | WR-0777 SWEET SIXTEEN Shotgun (RAD) | ![image254](https://github.com/paylhorse/ac6-parts/assets/74363924/645d0d23-9918-4a1d-954e-e223e098636f) |
+| wp_l_1520 | SG-026 HALDEMAN Shotgun (BALAM) | ![image250](https://github.com/paylhorse/ac6-parts/assets/74363924/168d0cef-4e63-4dfb-b873-b5d266884b6e) |
+| wp_l_1530 | SG-027 ZIMMERMAN Shotgun (BALAM) | ![image252](https://github.com/paylhorse/ac6-parts/assets/74363924/24ca11b1-16f3-428e-9d26-f28946c52ae4) |
+| wp_l_1610 | MA-J-200 RANSETSU-RF Burst Rifle (BAWS) | ![image231](https://github.com/paylhorse/ac6-parts/assets/74363924/894fafa8-0937-4bba-ad92-f7075bb742e2) |
+| wp_l_1620 | LR-036 CURTIS Linear Rifle (BALAM) | ![image233](https://github.com/paylhorse/ac6-parts/assets/74363924/d266f396-9e84-41df-9b5c-0faab6bd1131) |
+| wp_l_1630 | LR-037 HARRIS Linear Rifle (BALAM) | ![image235](https://github.com/paylhorse/ac6-parts/assets/74363924/246e702a-15f0-4005-a209-22f280fe12cb) |
+| wp_l_1710 | MA-J-201 RANSETSU-AR Burst Assault Rifle (BAWS) | ![image240](https://github.com/paylhorse/ac6-parts/assets/74363924/70def6c1-2abb-4abc-a3c7-a4732cdfe921) |
+| wp_l_1720 | RF-024 TURNER Assault Rifle (BALAM) | ![image237](https://github.com/paylhorse/ac6-parts/assets/74363924/5473a593-d2fc-4d4c-8c97-0ada785e42b1) |
+| wp_l_1730 | RF-025 SCUDDER Assault Rifle (BALAM) | ![image238](https://github.com/paylhorse/ac6-parts/assets/74363924/a1eb9c44-680b-4e83-bdda-1b085b79c320) |
+| wp_l_1810 | MA-E-210 ETSUJIN Burst Machine Gun (DAFENG) | ![image246](https://github.com/paylhorse/ac6-parts/assets/74363924/a7f1331f-d586-49fa-a687-aa2c90869102) |
+| wp_l_1820 | MG-014 LUDLOW Machine Gun (BALAM) | ![image242](https://github.com/paylhorse/ac6-parts/assets/74363924/c0624fb0-42bd-4065-a374-2ee5d0ac75e0) |
+| wp_l_1830 | DF-MG-02 CHANG-CHEN Machine Gun (DAFENG) | ![image244](https://github.com/paylhorse/ac6-parts/assets/74363924/c6ce1586-f209-4116-b39c-5602efd3dd4d) |
+| wp_l_1910 | DF-GA-08 HU-BEN Gatling Gun (DAFENG) | ![image248](https://github.com/paylhorse/ac6-parts/assets/74363924/8c3473eb-0128-4067-87be-3666d3b144e1) |
+| wp_l_2010 | EL-PW-00 VIENTO Needle Gun (ELCANO FOUNDRY) | ![image260](https://github.com/paylhorse/ac6-parts/assets/74363924/100fef01-4729-401a-81c3-8df773676e79) |
+| wp_l_2020 | MA-E-211 SAMPU Burst Handgun (BAWS) | ![image258](https://github.com/paylhorse/ac6-parts/assets/74363924/11a36e26-f767-4af3-a41d-7201c27afe55) |
+| wp_l_2030 | HG-003 COQUILLETT Handgun (BALAM) | ![image255](https://github.com/paylhorse/ac6-parts/assets/74363924/3b9112e0-b56b-4d29-a7d6-42cdb42d297c) |
+| wp_l_2040 | HG-004 DUCKETT Handgun (BALAM) | ![image256](https://github.com/paylhorse/ac6-parts/assets/74363924/ed6338c3-21ef-4dae-93a4-61c4a6e97710) |
+| wp_l_2110 | MA-T-223 KYORIKU Jamming Bomb Launcher (BAWS) | ![image277](https://github.com/paylhorse/ac6-parts/assets/74363924/9407c76b-d478-4562-87dd-35fb35f51f04) |
+| wp_l_2120 | KYORAI Napalm Bomb Launcher (BAWS) | ![image275](https://github.com/paylhorse/ac6-parts/assets/74363924/0b2e45b5-819d-45c7-82d0-2770e257ce9b) |
+| wp_l_2130 | WS-1200 THERAPIST Stun Bomb Launcher (RAD) | ![image279](https://github.com/paylhorse/ac6-parts/assets/74363924/3f78538f-fb44-493a-a716-6769ddea4b8b) |
+| wp_l_2210 | HML-G2/P19MLT-04 Missile Launcher (FURLONG DYNAMICS) | ![image305](https://github.com/paylhorse/ac6-parts/assets/74363924/768c80dc-0918-4332-b07a-69bfe9e1099c) |
+| wp_l_2220 | HML-G3/P08SPL-06 Split Missile Launcher (FURLONG DYNAMICS) | ![image307](https://github.com/paylhorse/ac6-parts/assets/74363924/41f84af4-0f81-43c2-a33c-6f58bec095d2) |
+| wp_l_2310 | IRIDIUM Grenade Launcher (MELINITE) | ![image273](https://github.com/paylhorse/ac6-parts/assets/74363924/6cf0f9ca-81f7-4c91-af76-273065f4c637) |
+| wp_l_2420 | 44-142 KRSV Multi Energy Rifle (ALLMIND) | ![image300](https://github.com/paylhorse/ac6-parts/assets/74363924/5f4019d0-dec0-40f3-b2f3-dd224b493a38) |
+| wp_l_2720 | VP-66LR Laser Rifle (ARQUEBUS CORP) | ![image283](https://github.com/paylhorse/ac6-parts/assets/74363924/1b0dd936-a2f6-47ce-94f6-5c3f6ba08c60) |
 | wp_l_3010 | ? | ---- |
-| wp_l_4010 | EARSHOT Spread Bazooka (BALAM) | image |
-| wp_l_4110 | SB-033M MORLEY Spread Bazooka (BALAM) | image |
-| wp_l_4210 | Vvc-703PM Plasma Missile Launcher (VCPL) | image |
-| wp_l_4211 | Vvc-706PM Plasma Missile Launcher (VCPL) | image |
-| wp_l_4220 | Vvc-70PM Plasma Missile Launcher (VCPL) | image |
-| wp_l_4230 | BML-G3/P05ACT-02 Active Homing Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4231 | BML-G3/P04ACT-01 Active Homing Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4240 | IB-C03W3: NGI 006 Coral Missile Launcher (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_4250 | BML-G1/P07VTC-12 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4251 | BML-G1/P01VTC-04 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4252 | BML-G1/P03VTC-08 Verticle Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4260 | 45-091 JVLN BETA Detonating Missile Launcher (ALLMIND) | image |
-| wp_l_4280 | WS-5001 SOUP Scatter Missile Launcher (RAD) | image |
-| wp_l_4290 | BML-G2/P03MLT-06 Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4291 | BML-G1/P20MLT-04 Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4292 | BML-G2/P05MLT-10 Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4300 | BML-G1/P32DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4301 | BML-G2/P08DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4302 | BML-G2/P17SPL-16 Split Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4303 | BML-G1/P31DUO-02 Dual Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4310 | BML-G2/P19SPL-12 Split Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4311 | BML-G2/P16SPL-08 Split Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4320 | BML-G1/P29CNT Container Missile Launcher (FURLONG DYNAMICS) | image |
-| wp_l_4330 | EL-PW-01 TRUENO Needle Missile Launcher (ELCANO FOUNDRY) | image |
-| wp_l_4340 | WR-0999 DELIVERY BOY Cluster Missile Launcher (RAD) | image |
-| wp_l_4350 | IA-C01W3: AURORA Light Wave Cannon (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_4410 | SONGBIRDS Grenade Cannon (MELINITE) | image |
-| wp_l_4510 | FASAN/60E Plasma Cannon (SCHNEIDER) | image |
-| wp_l_4610 | VP-60LCS Laser Cannon (ARQUEBUS CORP) | image |
-| wp_l_4710 | VE-60LCA Laser Cannon (ARQUEBUS CORP) | image |
-| wp_l_4810 | KRANICH/60Z Pulse Cannon (SCHNEIDER) | image |
-| wp_l_4820 | EULE/60D Pulse Shield Launcher (SCHNEIDER) | image |
-| wp_l_4830 | VE-60SNA Stun Needle Launcher (ARQUEBUS CORP) | image |
-| wp_l_4910 | VP-61PB Pulse Buckler (ARQUEBUS CORP) | image |
-| wp_l_4920 | SI-24: SU-Q5 Pulse Shield (TAKIGAWA) | image |
-| wp_l_4940 | VP-61PS Pulse Shield (ARQUEBUS CORP) | image |
-| wp_l_4950 | SI-27: SU-R8 Pulse Shield (TAKIGAWA) | image |
-| wp_l_4960 | SI-29:SU-TT/C Pulse Buckler (TAKIGAWA) | image |
-| wp_l_4970 | IB-C03W4: NGI 028 Coral Shield (RUBICON RESEARCH INSTITUTE) | image |
-| wp_l_4980 | VE-61PSA Pulse Scutum (ARQUEBUS CORP) | image |
-| wp_l_5010 | VP-60LCD Diffuse Laser Cannon (ARQUEBUS CORP) | image |
-| wp_l_5720 | 45-091 ORBT Laser Orbit (ALLMIND) | image |
-| wp_l_5810 | Vvc-700LD Laser Drone (VCPL) | image |
-| wp_l_5820 | VP-60LT Laser Turret (ARQUEBUS CORP) | image |
-| wp_l_8950 | ---- | image |
-| wp_l_8955 | ---- | image |
+| wp_l_4010 | EARSHOT Spread Bazooka (BALAM) | ![image325](https://github.com/paylhorse/ac6-parts/assets/74363924/89a947b5-a179-4224-b53f-971a7b69c19c) |
+| wp_l_4110 | SB-033M MORLEY Spread Bazooka (BALAM) | ![image323](https://github.com/paylhorse/ac6-parts/assets/74363924/59f9cf42-dfe3-4d9d-82c5-28a4b64d5ccb) |
+| wp_l_4210 | Vvc-703PM Plasma Missile Launcher (VCPL) | ![image375](https://github.com/paylhorse/ac6-parts/assets/74363924/c94b69d9-e937-462a-a80c-06e42d8949cd) |
+| wp_l_4211 | Vvc-706PM Plasma Missile Launcher (VCPL) | ![image376](https://github.com/paylhorse/ac6-parts/assets/74363924/ad66ed50-f6d2-497a-8b88-1fcc4facb984) |
+| wp_l_4220 | Vvc-70PM Plasma Missile Launcher (VCPL) | ![image378](https://github.com/paylhorse/ac6-parts/assets/74363924/27907f3c-dfdf-4cfb-8ccc-0ba2fe851f0b) |
+| wp_l_4230 | BML-G3/P05ACT-02 Active Homing Missile Launcher (FURLONG DYNAMICS) | ![image366](https://github.com/paylhorse/ac6-parts/assets/74363924/74905c77-5a98-4da5-be9e-f1fb04a95306) |
+| wp_l_4231 | BML-G3/P04ACT-01 Active Homing Missile Launcher (FURLONG DYNAMICS) | ![image364](https://github.com/paylhorse/ac6-parts/assets/74363924/7b3eaef5-a1e7-404b-bcce-a114e0cbd55f) |
+| wp_l_4240 | IB-C03W3: NGI 006 Coral Missile Launcher (RUBICON RESEARCH INSTITUTE) | ![image380](https://github.com/paylhorse/ac6-parts/assets/74363924/c169f6df-4013-4918-ad07-d5620cecf0d9) |
+| wp_l_4250 | BML-G1/P07VTC-12 Verticle Missile Launcher (FURLONG DYNAMICS) | ![image362](https://github.com/paylhorse/ac6-parts/assets/74363924/081a5ef4-04fe-4158-958d-52d6afbf49a4) |
+| wp_l_4251 | BML-G1/P01VTC-04 Verticle Missile Launcher (FURLONG DYNAMICS) | ![image359](https://github.com/paylhorse/ac6-parts/assets/74363924/c4e22653-aecb-4fd5-b975-b18db5413b76) |
+| wp_l_4252 | BML-G1/P03VTC-08 Verticle Missile Launcher (FURLONG DYNAMICS) | ![image360](https://github.com/paylhorse/ac6-parts/assets/74363924/f4a7b805-6cc9-40eb-926e-87863099f7ea) |
+| wp_l_4260 | 45-091 JVLN BETA Detonating Missile Launcher (ALLMIND) | ![image371](https://github.com/paylhorse/ac6-parts/assets/74363924/7ce958ae-54ed-44f3-a772-cc08fd4c49ff) |
+| wp_l_4280 | WS-5001 SOUP Scatter Missile Launcher (RAD) | ![image369](https://github.com/paylhorse/ac6-parts/assets/74363924/7411a39b-f5c1-4c77-82eb-d84eb364041a) |
+| wp_l_4290 | BML-G2/P03MLT-06 Missile Launcher (FURLONG DYNAMICS) | ![image346](https://github.com/paylhorse/ac6-parts/assets/74363924/cb9b0608-962f-4af8-8684-3505d6846db5) |
+| wp_l_4291 | BML-G1/P20MLT-04 Missile Launcher (FURLONG DYNAMICS) | ![image344](https://github.com/paylhorse/ac6-parts/assets/74363924/e00a744f-65b7-452f-86d6-7be099c32c74) |
+| wp_l_4292 | BML-G2/P05MLT-10 Missile Launcher (FURLONG DYNAMICS) | ![image348](https://github.com/paylhorse/ac6-parts/assets/74363924/1427d000-a0d8-46cf-91ee-621b0d49b25b) |
+| wp_l_4300 | BML-G1/P32DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | ![image355](https://github.com/paylhorse/ac6-parts/assets/74363924/81fb664b-35f4-49ba-861c-bca04c455c0b) |
+| wp_l_4301 | BML-G2/P08DUO-03 Dual Missile Launcher (FURLONG DYNAMICS) | ![image357](https://github.com/paylhorse/ac6-parts/assets/74363924/08f26096-2516-4df1-acc6-3f1530a546fc) |
+| wp_l_4302 | BML-G2/P17SPL-16 Split Missile Launcher (FURLONG DYNAMICS) | ![image352](https://github.com/paylhorse/ac6-parts/assets/74363924/5a8dbad7-fe5b-4202-893e-b896520d3009) |
+| wp_l_4303 | BML-G1/P31DUO-02 Dual Missile Launcher (FURLONG DYNAMICS) | ![image353](https://github.com/paylhorse/ac6-parts/assets/74363924/4263cb28-31c8-40f4-b63d-ab4b445ce172) |
+| wp_l_4310 | BML-G2/P19SPL-12 Split Missile Launcher (FURLONG DYNAMICS) | ![image350](https://github.com/paylhorse/ac6-parts/assets/74363924/8db0855c-87d0-4c2c-94d7-965df63d8978) |
+| wp_l_4311 | BML-G2/P16SPL-08 Split Missile Launcher (FURLONG DYNAMICS) | ![image351](https://github.com/paylhorse/ac6-parts/assets/74363924/a4012595-a8cb-4872-afb4-c4a3a186e90a) |
+| wp_l_4320 | BML-G1/P29CNT Container Missile Launcher (FURLONG DYNAMICS) | ![image367](https://github.com/paylhorse/ac6-parts/assets/74363924/8651bbb7-1aac-401f-bc1e-d1cf7bae91e9) |
+| wp_l_4330 | EL-PW-01 TRUENO Needle Missile Launcher (ELCANO FOUNDRY) | ![image373](https://github.com/paylhorse/ac6-parts/assets/74363924/3c834d03-7ca0-4991-bc70-847dd688d895) |
+| wp_l_4340 | WR-0999 DELIVERY BOY Cluster Missile Launcher (RAD) | ![image368](https://github.com/paylhorse/ac6-parts/assets/74363924/00daa22e-8026-4125-8085-d67b229c44a2) |
+| wp_l_4350 | IA-C01W3: AURORA Light Wave Cannon (RUBICON RESEARCH INSTITUTE) |  |
+| wp_l_4410 | SONGBIRDS Grenade Cannon (MELINITE) | ![image327](https://github.com/paylhorse/ac6-parts/assets/74363924/3bd7063f-68c9-46a3-9c30-1a84226210c2) |
+| wp_l_4510 | FASAN/60E Plasma Cannon (SCHNEIDER) | ![image338](https://github.com/paylhorse/ac6-parts/assets/74363924/4ee6a982-11f4-491c-808f-26111a2f80dd) |
+| wp_l_4610 | VP-60LCS Laser Cannon (ARQUEBUS CORP) | ![image330](https://github.com/paylhorse/ac6-parts/assets/74363924/8ab590cc-377b-4894-8f96-70f572d59ec3) |
+| wp_l_4710 | VE-60LCA Laser Cannon (ARQUEBUS CORP) | ![image332](https://github.com/paylhorse/ac6-parts/assets/74363924/c937adaa-aca2-4595-8bf9-00da2ea9b282) |
+| wp_l_4810 | KRANICH/60Z Pulse Cannon (SCHNEIDER) | ![image336](https://github.com/paylhorse/ac6-parts/assets/74363924/47774e67-13fb-4440-9454-3f05d8a9f6ba) |
+| wp_l_4820 | EULE/60D Pulse Shield Launcher (SCHNEIDER) | ![image340](https://github.com/paylhorse/ac6-parts/assets/74363924/8da11e5f-a112-4312-b7c5-a843ab94c545) |
+| wp_l_4830 | VE-60SNA Stun Needle Launcher (ARQUEBUS CORP) | ![image328](https://github.com/paylhorse/ac6-parts/assets/74363924/f54c3186-579b-485f-aa42-dd4f22d0c470) |
+| wp_l_4910 | VP-61PB Pulse Buckler (ARQUEBUS CORP) | ![image316](https://github.com/paylhorse/ac6-parts/assets/74363924/fe61eea3-0941-4567-a9df-62249606d614) |
+| wp_l_4920 | SI-24: SU-Q5 Pulse Shield (TAKIGAWA) | ![image312](https://github.com/paylhorse/ac6-parts/assets/74363924/fc6bf5ae-f81d-482f-8ad2-1b8233853e91) |
+| wp_l_4940 | VP-61PS Pulse Shield (ARQUEBUS CORP) | ![image311](https://github.com/paylhorse/ac6-parts/assets/74363924/b936dd8f-6758-4f04-a77c-c281724e1758) |
+| wp_l_4950 | SI-27: SU-R8 Pulse Shield (TAKIGAWA) | ![image314](https://github.com/paylhorse/ac6-parts/assets/74363924/2646ada3-9b2b-4ee3-a1cb-0e0299aa8f61) |
+| wp_l_4960 | SI-29:SU-TT/C Pulse Buckler (TAKIGAWA) | ![image318](https://github.com/paylhorse/ac6-parts/assets/74363924/b0f7a496-e6b5-4159-b136-429b8ad0ed30) |
+| wp_l_4970 | IB-C03W4: NGI 028 Coral Shield (RUBICON RESEARCH INSTITUTE) | ![image321](https://github.com/paylhorse/ac6-parts/assets/74363924/f6d2b4a9-348b-4c56-a2fe-90dae9c9dc38) |
+| wp_l_4980 | VE-61PSA Pulse Scutum (ARQUEBUS CORP) | ![image319](https://github.com/paylhorse/ac6-parts/assets/74363924/c7051c8a-4d36-4c82-afa2-b1a643a188dd) |
+| wp_l_5010 | VP-60LCD Diffuse Laser Cannon (ARQUEBUS CORP) | ![image334](https://github.com/paylhorse/ac6-parts/assets/74363924/f69db2fe-966e-46fa-b2b5-2efc1c8d9ec5) |
+| wp_l_5720 | 45-091 ORBT Laser Orbit (ALLMIND) | ![image384](https://github.com/paylhorse/ac6-parts/assets/74363924/b33a7a24-a2f9-4a73-b8ce-6833ea148d4e) |
+| wp_l_5810 | Vvc-700LD Laser Drone (VCPL) | ![image388](https://github.com/paylhorse/ac6-parts/assets/74363924/559bcd43-d513-4605-af1c-461a9b1fc42b) |
+| wp_l_5820 | VP-60LT Laser Turret (ARQUEBUS CORP) | ![image386](https://github.com/paylhorse/ac6-parts/assets/74363924/556471aa-b2c4-4571-8a4b-33182bb26f5c) |
+| wp_l_8950 | Unidentified Loose Part | ---- |
+| wp_l_8955 | Unidentified Loose Part | ---- |
 | wp_r_1310 | partName | image |
 | wp_r_1320 | partName | image |
 | wp_r_1410 | partName | image |
